@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shashwat Singh!
 
 ## About Me
-I'm a passionate developer with a keen interest in [your areas of interest, e.g., web development, machine learning, etc.]. I love exploring new technologies and continuously improving my skills. 
+I'm a passionate developer with a keen interest in [Machine Learning, Computer Vision and Autonomous Vehicles]. I love exploring new technologies and continuously improving my skills. 
 
 - 🌱 I’m currently learning [Machine Learning, Computer Vision and ROS]
 - 👯 I’m looking to collaborate on [open source projects, Hackathons and Research]
